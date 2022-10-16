@@ -14,7 +14,7 @@ import java.util.Optional;
 public class UsuarioTeste {
 
     /*
-    Teste exemplo, utilizando o panache mock
+    Teste exemplo do Active Records, utilizando o panache mock
      */
     @Test
     public void testarSeFindByIdOptionRetornaUsuarioCorreto() {
